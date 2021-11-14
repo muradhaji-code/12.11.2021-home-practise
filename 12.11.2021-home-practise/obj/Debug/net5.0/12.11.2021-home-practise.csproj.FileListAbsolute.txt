@@ -1,0 +1,16 @@
+C:\Users\Code Academy\source\repos\12.11.2021-home-practise\12.11.2021-home-practise\obj\Debug\net5.0\12.11.2021-home-practise.csproj.AssemblyReference.cache
+C:\Users\Code Academy\source\repos\12.11.2021-home-practise\12.11.2021-home-practise\obj\Debug\net5.0\12.11.2021-home-practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code Academy\source\repos\12.11.2021-home-practise\12.11.2021-home-practise\obj\Debug\net5.0\12.11.2021-home-practise.AssemblyInfoInputs.cache
+C:\Users\Code Academy\source\repos\12.11.2021-home-practise\12.11.2021-home-practise\obj\Debug\net5.0\12.11.2021-home-practise.AssemblyInfo.cs
+C:\Users\Code Academy\source\repos\12.11.2021-home-practise\12.11.2021-home-practise\obj\Debug\net5.0\12.11.2021-home-practise.csproj.CoreCompileInputs.cache
+C:\Users\Code Academy\source\repos\12.11.2021-home-practise\12.11.2021-home-practise\bin\Debug\net5.0\12.11.2021-home-practise.exe
+C:\Users\Code Academy\source\repos\12.11.2021-home-practise\12.11.2021-home-practise\bin\Debug\net5.0\12.11.2021-home-practise.deps.json
+C:\Users\Code Academy\source\repos\12.11.2021-home-practise\12.11.2021-home-practise\bin\Debug\net5.0\12.11.2021-home-practise.runtimeconfig.json
+C:\Users\Code Academy\source\repos\12.11.2021-home-practise\12.11.2021-home-practise\bin\Debug\net5.0\12.11.2021-home-practise.runtimeconfig.dev.json
+C:\Users\Code Academy\source\repos\12.11.2021-home-practise\12.11.2021-home-practise\bin\Debug\net5.0\12.11.2021-home-practise.dll
+C:\Users\Code Academy\source\repos\12.11.2021-home-practise\12.11.2021-home-practise\bin\Debug\net5.0\ref\12.11.2021-home-practise.dll
+C:\Users\Code Academy\source\repos\12.11.2021-home-practise\12.11.2021-home-practise\bin\Debug\net5.0\12.11.2021-home-practise.pdb
+C:\Users\Code Academy\source\repos\12.11.2021-home-practise\12.11.2021-home-practise\obj\Debug\net5.0\12.11.2021-home-practise.dll
+C:\Users\Code Academy\source\repos\12.11.2021-home-practise\12.11.2021-home-practise\obj\Debug\net5.0\ref\12.11.2021-home-practise.dll
+C:\Users\Code Academy\source\repos\12.11.2021-home-practise\12.11.2021-home-practise\obj\Debug\net5.0\12.11.2021-home-practise.pdb
+C:\Users\Code Academy\source\repos\12.11.2021-home-practise\12.11.2021-home-practise\obj\Debug\net5.0\12.11.2021-home-practise.genruntimeconfig.cache
